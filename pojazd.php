@@ -24,3 +24,4 @@ public function show()
     return $this->v;
   }
 }
+// private - dostęp ograniczony do wnętrza funckji/obiektu
